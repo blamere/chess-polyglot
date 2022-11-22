@@ -1,0 +1,29 @@
+{
+  "name": "chess-polyglot",
+  "version": "1.0.0",
+  "description": "chess-polyglot is node module to grab moves from Polyglot-formatted opening-book bin files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blamere/chess-polyglot.git"
+  },
+  "keywords": [
+    "chess",
+    "polyglot",
+    "opening",
+    "book"
+  ],
+  "author": "Brian Lamere",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blamere/chess-polyglot/issues"
+  },
+  "homepage": "https://github.com/blamere/chess-polyglot#readme",
+  "dependencies": {
+    "chess.js": "^0.1.x",
+    "node-addon-api": "^5.0.0"
+  }
+}
