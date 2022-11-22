@@ -38,6 +38,11 @@ returns an empty string.
 #### hash(fen)
 hash takes a fen string and returns its polyglot hash.
 
+## Linting
+To lint the js files with jshint run the command:
+
+    $ grunt jshint
+
 ## Credits
 Adapted from [polyglot-chess](https://github.com/imor/polyglot),
 which is derivative of the excellent [stockfish](https://github.com/mcostalba/Stockfish)
